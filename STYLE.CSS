@@ -20,6 +20,7 @@ body {
 }
 
 body * {
+    box-sizing: border-box;
     width: 100%;
     right: 100%;
     border-radius: 0%;
@@ -241,5 +242,6 @@ footer {
 .imgcidadespiaui{
     height: 100px;
     width: 100px;
+    flex-direction: column;
 }
 
