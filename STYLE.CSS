@@ -19,6 +19,12 @@ body {
     padding: 0; /* Remove o padding padrão */
 }
 
+body * {
+    width: 100%;
+    right: 100%;
+    border-radius: 0%;
+}
+
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 2.5rem; /* Tamanho da fonte */
